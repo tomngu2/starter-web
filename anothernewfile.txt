@@ -2,5 +2,6 @@ adding a change to test diffing.
 
 adding a change to see diff b/t working dir & staging area.
 
-
 adding another chnage to see diff b/t working dir & committed area.
+
+guess i forgot to commit, doing again.
