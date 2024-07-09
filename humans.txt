@@ -4,6 +4,7 @@
 # TEAM
 
 	Jason Taylor	jason@git.training	@awesomejt
+	Tom Nguyen	tom@git.training	@tomtom
 # THANKS
 
     All my students!
