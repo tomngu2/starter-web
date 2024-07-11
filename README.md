@@ -32,4 +32,4 @@ Adding some more text.
 
 ### Copyright -Add
 
-2014 Git.Training.  All rights reserved.
+2014 Git.Training.  All rights reserved again.
